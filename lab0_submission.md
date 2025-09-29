@@ -3,16 +3,16 @@
 ## Account Confirmations
 
 ### Core Development Platforms
-- **Google Colab Username:** [your-email]
-- **GitHub Username:** [your-username]
-- **GitHub Repository URL:** https://github.com/[your-username]/openai-course-labs
+- **Google Colab Username:** [rdmateo@gmail.com]
+- **GitHub Username:** [rdmateo]
+- **GitHub Repository URL:** https://github.com/[rdmateo]/openai-course-labs
 - **Streamlit Account:** ✓ Linked to GitHub
 - **Netlify Account:** ✓ Linked to GitHub
 
 ### AI Platform Accounts
-- **Vapi.ai Account:** ✓ Created (Username: [your-username])
+- **Vapi.ai Account:** ✓ Created (Username: [rdmateo@gmail.com])
 - **Google AI Studio:** ✓ Linked to Google Account
-- **LMArena.ai Account:** ✓ Created (Username: [your-username])
+- **LMArena.ai Account:** ✓ Created (Username: [rdmateo@gmail.com])
 
 ## Security Checklist
 - [ ] GitHub 2FA enabled
